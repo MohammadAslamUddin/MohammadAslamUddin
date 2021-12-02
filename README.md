@@ -55,5 +55,5 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammadAslamUddin&show_icons=true&theme=gotham" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAslamUddin&layout=compact&theme=buefy&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAslamUddin&layout=compact&theme=gotham&hide_border=true" />
 
