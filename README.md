@@ -62,7 +62,7 @@ HTML         19 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=MohammadAslamUddin&show_icons=true&theme=gotham" width="450" height="320" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MohammadAslamUddin&show_icons=true&theme=gotham" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAslamUddin&layout=compact&theme=buefy&hide_border=true" width="450" height="320"  />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAslamUddin&layout=compact&theme=buefy&hide_border=true" />
 
