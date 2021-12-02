@@ -52,17 +52,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img height="30" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
   </p>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-TypeScript   6 hrs 36 mins   ████████████▓░░░░░░░░░░░░   50.79 % 
-JSX          4 hrs 31 mins   ████████▓░░░░░░░░░░░░░░░░   34.86 % 
-JavaScript   1 hr 32 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-HTML         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-```
-<!--END_SECTION:waka-->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammadAslamUddin&show_icons=true&theme=gotham" width="500px" height="320px" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammadAslamUddin&show_icons=true&theme=gotham" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAslamUddin&layout=compact&theme=buefy&hide_border=true"  width="500px" height="320px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAslamUddin&layout=compact&theme=buefy&hide_border=true" />
 
