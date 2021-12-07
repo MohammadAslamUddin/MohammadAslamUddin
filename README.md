@@ -1,18 +1,14 @@
 # Hey there, I'm Mohammad Aslam Uddin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/thebit52409">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/thebit52409/">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+[![Twitter Follow](https://img.shields.io/twitter/follow/thebit52409?label=Follow)](https://twitter.com/intent/follow?screen_name=thebit52409)
+[![Linkedin: MohammadAslamUddin](https://img.shields.io/badge/-Mohammad_Aslam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thebit52409/)](https://www.linkedin.com/in/thebit52409/)
+![GitHub followers](https://img.shields.io/github/followers/MohammadAslamUddin?label=Follow&style=social)
 <a href="https://www.instagram.com/thebit52409/">
   <img align="left" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
 </a>
 <a href="https://t.me/Thebit52409">
   <img align="left" width="22px" src="https://user-images.githubusercontent.com/37285795/144484696-fe19f650-7d86-46e2-b5ac-55e77103b81b.png" />
 </a>
-
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=MohammadAslamUddin.MohammadAslamUddin)
 <br />
 
@@ -22,12 +18,12 @@ I am also an open-source enthusiast and maintainer.<img src="https://media.giphy
 
 
   
-- 💼 any freelance work? do reach, [email](mailto:aslamuddin015@gmail.com) :)
+- 💼 Any freelance work? do reach, [email](mailto:aslamuddin015@gmail.com) :)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects and make my self more useful 🤞
 - ⚡ Fun fact: I love to code and talk with strangers 🥴
-- 💬 ask me about anything, i am happy to help;😊
+- 💬 Ask me about anything, i am happy to help;😊
 
   <img align="right" alt="GIF" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" width="500" height="320" />
   
