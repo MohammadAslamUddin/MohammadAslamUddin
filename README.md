@@ -53,4 +53,4 @@ I am also an open-source enthusiast and maintainer.<img src="https://media.giphy
   </p>
 
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=MohammadAslamUddin&show_icons=true&theme=gotham" width="500" height="320" />
-<img align="left" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAslamUddin&layout=compact&theme=gotham&hide_border=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAslamUddin&layout=compact&theme=gotham&hide_border=true" width="500" height="320" />
