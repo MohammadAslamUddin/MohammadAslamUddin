@@ -52,5 +52,7 @@ I am also an open-source enthusiast and maintainer.<img src="https://media.giphy
 <img height="30" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
   </p>
 
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=MohammadAslamUddin&show_icons=true&theme=gotham" width="500" height="320" />
+<p align="center">
+<img align="center" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=MohammadAslamUddin&show_icons=true&theme=gotham" width="500" height="320" />
 <img align="center" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAslamUddin&layout=compact&theme=gotham&hide_border=true" width="500" height="320" />
+</p>
