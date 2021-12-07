@@ -18,7 +18,7 @@
 
 I'm a self-taught passionate FrontEnd and BackEnd developer from Bangladesh 🇧🇩
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
   
