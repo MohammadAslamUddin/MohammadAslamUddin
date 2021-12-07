@@ -22,7 +22,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
   
-- 💼 any freelance work? do reach, [email](https://mail.aslamuddin015@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:aslamuddin015@gmail.com) :)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects and make my self more useful 🤞
