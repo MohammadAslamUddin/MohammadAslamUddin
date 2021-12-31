@@ -18,7 +18,6 @@ I am also an open-source enthusiast and maintainer.<img src="https://media.giphy
 
 
   
-- 💼 Any freelance work? do reach, [email](mailto:aslamuddin015@gmail.com) :)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects and make my self more useful 🤞
