@@ -9,7 +9,6 @@
 <a href="https://t.me/Thebit52409">
   <img align="left" width="22px" src="https://user-images.githubusercontent.com/37285795/144484696-fe19f650-7d86-46e2-b5ac-55e77103b81b.png" />
 </a>
-![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=MohammadAslamUddin.MohammadAslamUddin)
 <br />
 
 I'm a self-taught passionate FrontEnd and BackEnd developer from Bangladesh 🇧🇩
